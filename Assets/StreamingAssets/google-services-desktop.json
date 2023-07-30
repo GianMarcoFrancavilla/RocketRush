@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "1084297622089",
+    "project_id": "mcproject-cb8a9",
+    "storage_bucket": "mcproject-cb8a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084297622089:ios:873310c103d227a9e3c598",
+        "android_client_info": {
+          "package_name": "com.company.MCProject"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVLf9JxtP1R0PWQa_qhRA4BbFZVy_Exc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084297622089-fn9ba2fhta909vnvehfjthkrq1boigtr.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
